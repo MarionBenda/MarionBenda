@@ -1,5 +1,7 @@
+
+  
 <div align="center">
-  <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3dnbzZnaXR2Z3dyc2dyZ2VsYWJ4cWVvZmg4dmZwbmZ0eWwwczI5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ML15sUZFNyMy0Yv55m/giphy.gif"  />
+![Coding Artificial Intelligence GIF by Pudgy Penguins](https://github.com/user-attachments/assets/6f270018-4da7-4c60-9bf4-159771713199)
 </div>
 
 
