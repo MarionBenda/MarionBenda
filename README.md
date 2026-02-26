@@ -1,5 +1,7 @@
 <div align="center">
-  <iframe src="https://giphy.com/embed/ML15sUZFNyMy0Yv55m" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><a href="https://giphy.com/gifs/pudgypenguins-ai-artificial-intelligence-grok-ML15sUZFNyMy0Yv55m"</a>
+  <iframe src="https://giphy.com/embed/ML15sUZFNyMy0Yv55m" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+  <a href="https://giphy.com/gifs/pudgypenguins-ai-artificial-intelligence-grok-ML15sUZFNyMy0Yv55m"</a>
+  </div>  
 
 ###
 
