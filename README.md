@@ -3,10 +3,22 @@
 <div align="center">
   <img height="200" src="https://raw.githubusercontent.com/MarionBenda/MarionBenda/refs/heads/main/Coding%20Artificial%20Intelligence%20GIF%20by%20Pudgy%20Penguins.gif">
 </div>
+###
 
+<h1 align="center">hey there 👋</h1>
 
 ###
 
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">I'm Marion from Mattighofen a small city in Upper Austria <br><br>- 🔭 I’m working as a quality specialist<br>- 📚 I'm currently learning conding <br>- ⚡ In my free time I love gaming </p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+###
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
