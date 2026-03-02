@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">I'm Marion from Mattighofen a small city in Upper Austria <br><br>- 🔭 I’m working as a quality specialist<br>- 📚 I'm currently learning conding <br>- ⚡ In my free time I love gaming </p>
+<p align="left">I'm Marion from Mattighofen a small city in Upper Austria <br><br>- 🔭 I’m working as a quality specialist<br>- 📚 I'm currently learning conding <br>- ⚡ In my free time I love coding and gaming </p>
 
 ###
 
